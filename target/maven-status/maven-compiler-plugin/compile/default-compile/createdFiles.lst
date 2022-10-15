@@ -1,0 +1,6 @@
+domain\Persona.class
+datos\Conexion.class
+com\edwin\manejojdbc\App.class
+datos\UsuarioJDBC.class
+datos\PersonaJDBC.class
+domain\Usuario.class
